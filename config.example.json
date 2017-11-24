@@ -1,0 +1,8 @@
+{
+  "SECRET_KEY": "ThisIsARandomStringWithLength=50!-----------------",
+  "DEBUG": true,
+  "DB_NAME": "roc",
+  "DB_USER": "root",
+  "DB_PASS": "",
+  "SITE_DOMAIN": "http://your.domain"
+}
