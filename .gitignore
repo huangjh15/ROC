@@ -1,0 +1,20 @@
+#Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class  
+
+#migration files
+ROC_app/migraions
+
+#congfig
+config.json
+
+#django stuff
+*.log
+
+#idea files
+.idea/
+
+#media files
+media/
+
